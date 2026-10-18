@@ -1,0 +1,5 @@
+body { background: #f5f7fa; }
+.hero { background: linear-gradient(135deg, #0f3d3e, #1d6f6f); color: #fff; }
+.sidebar { min-height: calc(100vh - 56px); background: #fff; border-right: 1px solid #e3e6ea; }
+.sidebar .nav-link { color: #333; border-radius: 6px; }
+.sidebar .nav-link.active { background: #0f3d3e; color: #fff; }
